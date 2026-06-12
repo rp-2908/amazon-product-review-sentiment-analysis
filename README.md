@@ -7,6 +7,11 @@ End-to-end NLP project performing sentiment analysis on real Amazon customer rev
 - **Goal**: Classify reviews as Positive or Negative
 - **Techniques**: Text preprocessing, TF-IDF Vectorization, Classification models
 
+## 📥 Dataset
+- **Source**: [Amazon Product Reviews Dataset](https://www.kaggle.com/datasets/yasserh/amazon-product-reviews-dataset) by Yasser H.
+- **Size**: ~1,597 reviews
+- **How to use**: Download the dataset from Kaggle and place `7817_1.csv` in the project folder.
+
 ## 🛠️ Technologies Used
 - Python
 - Pandas, NumPy
